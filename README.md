@@ -24,4 +24,4 @@ Log into your VPS via SSH as the `root` user and paste the following command:
 
 
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/SPW-SL/vps_Status_through_Telegram_BOT/main/install.sh](https://raw.githubusercontent.com/SPW-SL/vps_Status_through_Telegram_BOT/main/install.sh))
+bash <(curl -Ls [https://raw.githubusercontent.com/SPW-SL/vps_Status_through_Telegram_BOT/main/install.sh](https://raw.githubusercontent.com/SPW-SL/vps_Status_through_Telegram_BOT/main/install.sh)
